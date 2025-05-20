@@ -247,7 +247,7 @@ hr {
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
-        padding: 100px;
+        padding: 50px;
         align-content: center;
     }
     
@@ -263,7 +263,7 @@ hr {
     }
     
     .maps {
-        width: 140%;
+        width: 100vw;
         height: auto;
         border-radius: 0px;
         margin-right: 0px;
